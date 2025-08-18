@@ -2,9 +2,13 @@
 Here’s the structured path we’ll follow:
 
 ## Phase 1: Foundations (Programming, Math, Data)
-1. ✅ Python Basics
+1. ✅ Hello world
 
-Variables, Data Types & Operators
+2. ✅ Variables
+
+3. ✅ Data Types
+
+4. ✅ Operators
 
 Control Flow (if, loops)
 
