@@ -2,15 +2,15 @@
 Here’s the structured path we’ll follow:
 
 ## Phase 1: Foundations (Programming, Math, Data)
-1. ✅ Hello world
+1. ✅ [Hello world](./python-basics/1_helloWorld.py)
 
-2. ✅ Variables
+2. ✅ [Variables](./python-basics/2_variables.py)
 
-3. ✅ Data Types
+3. ✅ [Data Types](./python-basics/3_dataTypes.md)
 
-4. ✅ Operators
+4. ✅ [Operators](./python-basics/4_operators.py)
 
-Control Flow (if, loops)
+5. ✅ [Control Flow (if, loops)](./python-basics/5_controlFlow.py)
 
 Functions & Modules
 
@@ -36,7 +36,7 @@ SQL for Data Querying
 
 Data Visualization (Matplotlib, Seaborn)
 
-Phase 2: Machine Learning Core
+## Phase 2: Machine Learning Core
 What is Machine Learning?
 
 Supervised vs Unsupervised Learning
@@ -63,7 +63,7 @@ Building Your First ML Model
 
 Project: Predict House Prices
 
-Phase 3: Deep Learning & Neural Networks
+## Phase 3: Deep Learning & Neural Networks
 What is Deep Learning?
 
 Neural Network Architecture
@@ -90,7 +90,7 @@ Project: Image Classification
 
 Project: Text Sentiment Analysis
 
-Phase 4: NLP & Transformers
+## Phase 4: NLP & Transformers
 NLP Basics
 
 Text Preprocessing
@@ -105,7 +105,7 @@ Fine-Tuning Pretrained Models
 
 Project: Chatbot or Text Summarizer
 
-Phase 5: MLOps & Deployment
+## Phase 5: MLOps & Deployment
 Model Deployment Basics
 
 Flask/FastAPI for ML APIs
@@ -120,7 +120,7 @@ Monitoring & Logging
 
 Project: Deploy ML Model to AWS
 
-Phase 6: Advanced Topics
+## Phase 6: Advanced Topics
 Reinforcement Learning
 
 Generative AI (GANs, Diffusion Models)
