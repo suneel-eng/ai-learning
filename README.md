@@ -12,7 +12,9 @@ Here’s the structured path we’ll follow:
 
 5. ✅ [Control Flow (if, loops)](./python-basics/5_controlFlow.py)
 
-Functions & Modules
+6. ✅ [Functions](./python-basics/6_functions.py)
+
+7. ✅ [Modules](./python-basics/7_modules.py)
 
 Data Structures (lists, dicts, sets)
 
