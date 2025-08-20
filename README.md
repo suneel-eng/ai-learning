@@ -16,7 +16,13 @@ Here’s the structured path we’ll follow:
 
 7. ✅ [Modules](./python-basics/7_modules.py)
 
-Data Structures (lists, dicts, sets)
+8. ✅ [Lists](./python-basics/8_lists.py)
+
+9. ✅ [Dictionaries](./python-basics/9_dictionaries.py)
+
+10. ✅ [Sets](./python-basics/10_sets.py)
+
+11. ✅ [Tuples](./python-basics/11_tuples.py)
 
 Working with Files
 
