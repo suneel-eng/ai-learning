@@ -24,7 +24,9 @@ Here’s the structured path we’ll follow:
 
 11. ✅ [Tuples](./python-basics/11_tuples.py)
 
-Working with Files
+12. ✅ [Working with Files](./python-basics/12_workingWithFiles.py)
+
+13. ✅ [Reading csv file](./python-basics/13_readingCsvFile.py)
 
 Object-Oriented Programming
 
