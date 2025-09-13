@@ -53,8 +53,23 @@ Here’s the structured path we’ll follow:
 | Normalization | Scale values for better learning |
 | Encoding categories | Convert text to numbers |
 
+18. ✅ [Basic Statistics](./python-basics/18_basic_statistics.py)
 
-Basic Statistics
+Statistics helps you:
+- understand data distributions
+- detect outliers and patterns
+- evaluate model performance
+- make data driven decissions
+
+Key concepts:
+| Concept | Meaning | Python example |
+|---------|---------|----------------|
+| Mean | Average value | ```np.mean(data)``` |
+| Median | Middle value | ```np.median(data)``` |
+| Mode | Most frequent value | ```stats.mode(data)``` |
+| Variance | Spread of data from the mean | ```np.var(data)```|
+| Standard deviation | Average distance from the mean | ```np.std(data)``` |
+| Range | Difference between max and min | ```np.max(data) - np.min(data)``` |
 
 Probability Concepts
 
