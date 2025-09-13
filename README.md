@@ -6,7 +6,16 @@ Here’s the structured path we’ll follow:
 
 2. ✅ [Variables](./python-basics/2_variables.py)
 
-3. ✅ [Data Types](./python-basics/3_dataTypes.md)
+3. ✅ Data Types
+
+| Type | Example | Description |
+|------|---------|-------------|
+| Int | ```42``` | Whole numbers |
+| float | ```3.14``` | Decimal numbers |
+| str | ```"Hello"``` | Text strings |
+| bool | ```True, False``` | Boolean values |
+| list | ```[1,2,3]``` | Ordered collection |
+| dict | ```{"name": "suneel"}``` | Key-value pairs |
 
 4. ✅ [Operators](./python-basics/4_operators.py)
 
@@ -34,7 +43,16 @@ Here’s the structured path we’ll follow:
 
 16. ✅ [Introduction to Pandas](./python-basics/16_intro_to_pandas.py)
 
-Data Cleaning & Preprocessing
+17. ✅ [Data Cleaning & Preprocessing](./python-basics/17_data_cleaning.py)
+
+| Task | Purpose |
+|------|---------|
+| Handling missing data | Fill or remove gaps |
+| Removing duplicates | Avoid bias and redundancy |
+| Type conversion | Ensure correct formats |
+| Normalization | Scale values for better learning |
+| Encoding categories | Convert text to numbers |
+
 
 Basic Statistics
 
