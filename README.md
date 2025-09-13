@@ -30,7 +30,9 @@ Here’s the structured path we’ll follow:
 
 14. ✅ [Object-Oriented Programming](./python-basics/14_OOP.py)
 
-Python Libraries for Data (NumPy, Pandas)
+15. ✅ [NumPy Basics](./python-basics/15_numpy_basics.py)
+
+16. ✅ [Introduction to Pandas](./python-basics/16_intro_to_pandas.py)
 
 Data Cleaning & Preprocessing
 
