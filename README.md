@@ -103,7 +103,16 @@ Types of Probability
 | Matrix multiplication | Combine data & weights | Core of neural network layers |
 
 
-Calculus for ML
+21) ✅ [Calculus for ML](./python-basics/21_calculus.py)
+
+| Concept | Meaning | AI Example |
+|---------|---------|------------|
+| Function | A rule that map inputs to outputs | Loss function maps predictions -> errors |
+| Derivative | Rate of change of a function | How much loss changes if weight changes |
+| Gradient | Vector of derivatives for all parameters | Guides weight updates in training |
+| Partial derivative | Derivative w.r.t one variable while holding others constant | Change in loss if only one weight changes |
+| Chain rule | Derivative of a function of a function | Backpropagation in neural networks |
+
 
 SQL for Data Querying
 
