@@ -116,7 +116,7 @@ Types of Probability
 
 22) ✅ [SQL for Data Querying](./python-basics/22_sql.py)
 
-Data Visualization (Matplotlib, Seaborn)
+23) Data Visualization (Matplotlib, Seaborn)
 
 ## Phase 2: Machine Learning Core
 What is Machine Learning?
