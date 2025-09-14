@@ -71,7 +71,41 @@ Key concepts:
 | Standard deviation | Average distance from the mean | ```np.std(data)``` |
 | Range | Difference between max and min | ```np.max(data) - np.min(data)``` |
 
-Probability Concepts
+19. ✅ [Probability Concepts](./python-basics/19_probability_basics.py)
+
+| Term | Meaning | Example |
+|------|---------|---------|
+| Experiment | Any process with an uncertain outcome | Tossing a coin |
+| Outcome | Result of an experiment | Heads |
+| Event | A set of outcomes | Getting heads |
+| Probability | Measure of likelihood (0 to 1) | 0.5 for heads in a fair coin |
+
+Basic formula:
+<math>
+    <mtable>
+        <mtr>
+            <mtd>
+                <mi>P</mi>
+                <mo>(</mo>
+                <mi>E</mi>
+                <mo>)</mo>
+            </mtd>
+            <mtd>=</mtd>
+            <mtd>
+                <mfrac>
+                    <mi>Number of favorable outcomes</mi>
+                    <mi>Total outcomes</mi>
+                </mfrac>
+            </mtd>
+        </mtr>
+    </mtable>
+</math>
+
+Types of Probability
+
+1) Independent events: One event doesn’t affect the other Example: Tossing two coins
+2) Dependent events: One event affects the other Example: Drawing cards without replacement
+3) Conditional probability: Probability of A given B
 
 Linear Algebra Essentials
 
