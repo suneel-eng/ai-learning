@@ -114,7 +114,7 @@ Types of Probability
 | Chain rule | Derivative of a function of a function | Backpropagation in neural networks |
 
 
-SQL for Data Querying
+22) ✅ [SQL for Data Querying](./python-basics/22_sql.py)
 
 Data Visualization (Matplotlib, Seaborn)
 
