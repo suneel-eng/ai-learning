@@ -81,33 +81,27 @@ Key concepts:
 | Probability | Measure of likelihood (0 to 1) | 0.5 for heads in a fair coin |
 
 Basic formula:
-<math>
-    <mtable>
-        <mtr>
-            <mtd>
-                <mi>P</mi>
-                <mo>(</mo>
-                <mi>E</mi>
-                <mo>)</mo>
-            </mtd>
-            <mtd>=</mtd>
-            <mtd>
-                <mfrac>
-                    <mi>Number of favorable outcomes</mi>
-                    <mi>Total outcomes</mi>
-                </mfrac>
-            </mtd>
-        </mtr>
-    </mtable>
-</math>
+
+P(E) = Number of favorable outcomes / Total outcomes
 
 Types of Probability
 
-1) Independent events: One event doesn’t affect the other Example: Tossing two coins
-2) Dependent events: One event affects the other Example: Drawing cards without replacement
-3) Conditional probability: Probability of A given B
+- Independent events: One event doesn’t affect the other Example: Tossing two coins
+- Dependent events: One event affects the other Example: Drawing cards without replacement
+- Conditional probability: Probability of A given B
 
-Linear Algebra Essentials
+20) ✅ [Linear Algebra Essentials](./python-basics/20_linear_algebra.py)
+
+| Concept | Meaning | AI Example |
+|---------|---------|------------|
+| Scalar | Single number | Learning rate = 0.01 |
+| Vector | 1D array of numbers | Word embeddings = ```[0.12, -0.45, 0.88]``` |
+| Matrix | 2D array of numbers | Image pixels: 28x28 grid |
+| Tensor | Multi-dimensional array | RGB image: 3x28x28 |
+| Transpose | Flip rows <-> columns | Needed in matrix multiplication |
+| Dot product | Sum of element wise products | Similarity between vectors |
+| Matrix multiplication | Combine data & weights | Core of neural network layers |
+
 
 Calculus for ML
 
